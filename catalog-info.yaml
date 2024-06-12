@@ -11,7 +11,7 @@ metadata:
   tags:
     - java
   links:
-    - url: 
+    - url: https://github.com/alok0593singh/react-test-rp-integration-repo.git
       title: Admin Dashboard
       icon: dashboard
       type: admin-dashboard
