@@ -8,7 +8,7 @@ metadata:
   annotations:
     example.com/service-discovery: rpapp
     circleci.com/project-slug: github/example-org/artist-website
-    sonarqube.org/project-key: rp_test_proj
+    sonarqube.org/project-key: YOUR_INSTANCE_NAME/YOUR_PROJECT_KEY
   tags:
     - java
   links:
@@ -17,7 +17,7 @@ metadata:
       icon: dashboard
       type: admin-dashboard
 spec:
-  type: website
-  lifecycle: production
+  type: library
+  lifecycle: experimental
   owner: artist-relations-team
   system: public-websites
