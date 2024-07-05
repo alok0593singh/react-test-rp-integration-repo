@@ -10,6 +10,7 @@ metadata:
     circleci.com/project-slug: github/example-org/artist-website
     sonarqube.org/project-key: specialproj/alok0593singh_sonar-rp-test-repo
     backstage.io/kubernetes-id: backstage
+    dev.azure.com/project-repo: Mobile_apps/KUnidirectional
   tags:
     - java
   links:
